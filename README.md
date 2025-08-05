@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Iffti-Hasan/Pharmacy-Management-System-MedicineGhor---C---.NET/blob/24d51e1493184bfee84f2394fa13d72e704eff42/MedicineGhor_userInterface/logIn_interface.png" alt="Login Interface" width="300" height="200" />
+  <img src="https://github.com/Iffti-Hasan/Pharmacy-Management-System-MedicineGhor---C---.NET/blob/24d51e1493184bfee84f2394fa13d72e704eff42/MedicineGhor_userInterface/logIn_interface.png" alt="Login Interface" width="300" height="190" />
   <img src="https://github.com/Iffti-Hasan/Pharmacy-Management-System-MedicineGhor---C---.NET/blob/24d51e1493184bfee84f2394fa13d72e704eff42/MedicineGhor_userInterface/admin_dashboard.png" alt="Admin Dashboard" width="300" height="200" />
   <img src="https://github.com/Iffti-Hasan/Pharmacy-Management-System-MedicineGhor---C---.NET/blob/24d51e1493184bfee84f2394fa13d72e704eff42/MedicineGhor_userInterface/admin_addUser.png" alt="Admin Add User" width="300" height="200" />
   <img src="https://github.com/Iffti-Hasan/Pharmacy-Management-System-MedicineGhor---C---.NET/blob/93d49deeb88c20beb4a7ab0ca5548b12b2e10610/MedicineGhor_userInterface/admin_customerDetails.png" alt="Admin Customer Details" width="300" height="200" />
